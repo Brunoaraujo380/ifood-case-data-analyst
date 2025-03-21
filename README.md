@@ -3,7 +3,20 @@
 
 # Case iFood - Analista de dados
 
-Considere uma empresa bem estabelecida que atua no setor de varejo de alimentos. Atualmente, eles têm cerca de vários milhares de clientes registrados e atendem quase um milhão de consumidores por ano. Eles vendem produtos de 5 grandes categorias: vinhos, carnes, frutas exóticas, peixes especialmente preparados e produtos doces. Estes podem ser divididos ainda mais em produtos de *gold* e regulares. Os clientes podem encomendar e adquirir produtos por meio de 3 canais de vendas: lojas físicas, catálogos e site da empresa. Globalmente, a empresa teve receitas sólidas e uma linha de fundo saudável nos últimos 3 anos, mas as perspectivas de crescimento dos lucros para os próximos 3 anos não são promissoras... Por esse motivo, várias iniciativas estratégicas estão sendo consideradas para inverter essa situação. Um deles é melhorar o desempenho das atividades de marketing, com foco especial em campanhas de marketing.
+Imagine uma empresa consolidada no setor de varejo de alimentos. Ela possui milhares de clientes registrados e atende quase um milhão de consumidores por ano.
+
+Seus produtos estão divididos em cinco grandes categorias:
+✅ Vinhos
+✅ Carnes
+✅ Frutas exóticas
+✅ Peixes especiais
+✅ Doces
+
+Cada categoria conta com duas linhas de produtos: Gold (premium) e Regular. Os clientes podem comprar por três canais de vendas: lojas físicas, catálogos e site da empresa.
+
+Nos últimos três anos, a empresa manteve uma receita sólida e bons resultados financeiros. No entanto, as previsões para os próximos três anos indicam um crescimento desacelerado.
+
+Para reverter essa situação, diversas estratégias estão sendo avaliadas. Uma das principais é aprimorar as campanhas de marketing, tornando-as mais eficazes e impactantes.
 
 ![pairplot](images/pairplot_clusters.png)
 
